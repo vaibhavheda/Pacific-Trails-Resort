@@ -6,7 +6,7 @@ Website solutions to "Web Development and Design Foundations with HTML5"
 
 Objectives:
      Create a web page that includes the following tags/characters
-              - title
+     - title
               - paragraph
               - lists
               - headings
