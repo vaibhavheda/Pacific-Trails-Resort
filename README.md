@@ -28,3 +28,8 @@ Create a web page that includes the following tags/characters
 
 - Chapter 4
 
+![Screenshot 2019-11-18 at 2 59 00 AM](https://user-images.githubusercontent.com/52317352/69034533-72e8af00-09af-11ea-9f3f-244aa5958b97.png)
+
+![Screenshot 2019-11-18 at 2 59 07 AM](https://user-images.githubusercontent.com/52317352/69034537-754b0900-09af-11ea-8183-14adfb537907.png)
+
+![Screenshot 2019-11-18 at 2 59 14 AM](https://user-images.githubusercontent.com/52317352/69034538-767c3600-09af-11ea-832b-753eeb26c701.png)
