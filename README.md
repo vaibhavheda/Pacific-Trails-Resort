@@ -1,8 +1,10 @@
 # Pacific-Trails-Resort
 
-Website solutions to "Web Development and Design Foundations with HTML5" 
 
--Case Study "Pacific Trails Resort"
+-Website Solutions to "Web Development and Design Foundations with HTML5" - Case Study "Pacific Trails Resort"
+
+![Screenshot 2019-11-18 at 3 01 54 AM](https://user-images.githubusercontent.com/52317352/69035049-a6780900-09b0-11ea-86ce-0e78dff258b3.png)
+
 
 ## Objectives:
 
