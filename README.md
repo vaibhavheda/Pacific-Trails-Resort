@@ -34,3 +34,10 @@ Create a web page that includes the following tags/characters
 
 ![Screenshot 2019-11-18 at 2 59 14 AM](https://user-images.githubusercontent.com/52317352/69034606-a4fa1100-09af-11ea-8cb2-190b9744f5e9.png)
 
+- Chapter 6 
+
+![Screenshot 2019-11-18 at 3 01 54 AM](https://user-images.githubusercontent.com/52317352/69034713-f30f1480-09af-11ea-9cc5-ef5774907b45.png)
+
+![Screenshot 2019-11-18 at 3 02 01 AM](https://user-images.githubusercontent.com/52317352/69034714-f4404180-09af-11ea-9e9e-6adc4930ee83.png)
+
+![Screenshot 2019-11-18 at 3 02 24 AM](https://user-images.githubusercontent.com/52317352/69034719-f4d8d800-09af-11ea-9664-401b2bcca427.png)
