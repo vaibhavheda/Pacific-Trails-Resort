@@ -47,3 +47,9 @@ Create a web page that includes the following tags/characters
 
 
 - Chapter 8
+
+
+![Screenshot 2019-11-18 at 3 05 10 AM](https://user-images.githubusercontent.com/52317352/69034908-4d0fda00-09b0-11ea-942c-ed436311e3dc.png)
+
+
+- Chapter 9 
